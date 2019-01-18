@@ -1,0 +1,47 @@
+.epic{
+    text-align: center;
+    padding:10px;
+    background:#79c879;
+    color:#fff;
+    margin-bottom:10px;
+    display:none;
+
+  }
+  body{
+    background:#92bde7;
+    color:#485e74;
+    line-height:1.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:1em;
+  }
+  .lol{
+    max-width:1170px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:1em;
+  }
+  ul{
+    list-style: none;
+  } 
+  .Nami{
+    text-align: center;
+  }
+  .Nami span{
+    color:#fff;
+  }
+  .dragon > *{
+    padding: 1em;
+  }
+  .lil{
+    background:#c9e6ff;
+  }
+  .lil h3, .lil ul{
+    text-align: center;
+  }
+  .dark{
+    background:#f9feff;
+  }
+  .bye{
+    display: grid;
+    grid-gap:20px;
+  }
